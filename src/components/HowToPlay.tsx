@@ -1,0 +1,1 @@
+export const HowToPlay = () => <div className="text-sm text-slate-300 space-y-1"><h3 className="font-semibold text-white">How to play</h3><p>Use clues to fill hidden cells.</p><p>Click: unknown → filled → empty mark.</p><p>Right-click marks empty quickly.</p></div>;
